@@ -1,14 +1,14 @@
-#Flixx App
+# Flixx App
 
 Movie info application build with vanilla JavaScript that uses **version 3* of the [TMDB API](https://developers.themoviedb.org/3)
 
-###Slider
+### Slider
 <img src="images/screen/flixx-slider-screen.jpg" width="500">
 
-###Search box
+### Search box
 <img src="images/screen/flixx-search-screen.jpg" width="500">
 
-###Details page
+### Details page
 <img src="images/screen/flixx-details.jpg" width="500">
 
 
